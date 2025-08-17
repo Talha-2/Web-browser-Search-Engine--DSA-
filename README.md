@@ -1,8 +1,13 @@
 
-# 📊 Data Structures & Algorithms (DSA) Final Project
+# 📊 Web Browser Search Engine
 
-This project is a **C++ Windows Forms Application** built in **Visual Studio** as part of the Final Year Data Structures & Algorithms coursework.  
-It demonstrates key DSA concepts through an interactive **graphical user interface (GUI)**.
+This project implements a lightweight, educational **Web Browser and Search Engine** tailored to a local collection of web pages. It combines essential features of both tools:
+
+* A **minimal browser** capable of displaying pages, supporting navigation actions (like Home, Back, Forward), and enabling clickable hyperlinks.
+* A **search engine** that indexes pages using a **Trie (prefix tree)** structure for efficient word storage and query processing.
+* A **connectivity graph** of hyperlinks, allowing users to explore link paths, view reachable pages, and compute shortest paths between URLs.
+
+By simulating real-world browser and search engine functionality on a smaller scale, the project underscores how data structures (especially Trie and graph representations) underpin efficient information retrieval and web navigation.
 
 ---
 
